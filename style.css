@@ -1,0 +1,36 @@
+.hi{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    
+}
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    background-color: orangered;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box2{
+    background-color: chartreuse;
+}
+.box3{
+    background-color: rgb(20, 117, 222);
+    margin-right: 10px;
+}
+.box4{
+    background-color: rgb(230, 238, 14);
+}
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+.tab{
+    display: flex;
+    justify-content: center;
+}
